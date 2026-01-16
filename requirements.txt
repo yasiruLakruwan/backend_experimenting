@@ -1,0 +1,7 @@
+sqlalchemy
+fastapi
+uvicorn
+alembic
+pandas
+numpy
+
